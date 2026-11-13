@@ -1,0 +1,46 @@
+Audio Bridge 非商业源码许可 1.0
+Audio Bridge Noncommercial Source License 1.0
+SPDX identifier: LicenseRef-AudioBridge-NC-1.0 (custom, not OSI-approved)
+
+Copyright (c) 2026 Floating Dream浮梦及各自贡献者 / and respective contributors.
+Contact: 3067477430@qq.com
+
+中文条款
+
+1. 范围。本许可仅适用于许可人有权按本许可授权、且在本次发布中明确标注适用本许可的原创代码、界面和文档（“许可材料”）。不主张对不受著作权保护的内容享有排他权。第三方代码、依赖、对应源码、许可证及另有标注的文件不适用本许可，依各自原许可授权。
+
+2. 非商业授权。在遵守本许可的前提下，许可人免费授予使用者非独占、全球性的许可，允许为非商业目的使用、阅读、复制、修改和分发许可材料的源码及可执行形式。个人日常无障碍听音、与营利无关的学习研究及无偿公益协助属于允许用途。残障用户在工作中仅为个人听音使用本工具，且不向雇主或客户提供本软件作为产品或服务，亦属于允许的个人无障碍使用。
+
+3. 禁止商业化。未获相关权利人另行书面许可，不得将许可材料用于以商业利益、营利或金钱报酬为目的的活动，包括销售或出租软件及其衍生作品，收费分发、收费安装或代配置，收费技术支持，将其嵌入或捆绑商业硬件、软件或服务，以广告、付费功能或订阅变现，以及超出第2条个人无障碍用途的商业机构经营使用。仅仅免费交付软件不能使实际的商业化活动变成非商业活动。
+
+4. 分发和修改。分发原版或修改版时，必须保留本许可、作者和版权声明以及所有适用的第三方声明；清楚标明修改内容和日期，不得把修改版冒充作者原版。修改版中受本许可约束的部分须按本许可继续提供，不得另行授予商业使用权。分发可执行版本时，应同时提供或随附取得对应许可材料源码的有效方式；第三方源码的提供义务依各自许可履行。
+
+5. 第三方和旧版权利优先。本许可不得限制或替代 MIT、MPL-2.0、Apache-2.0、BSD 或其他第三方许可证已授予的权利。此前已有效按 MIT 或其他许可获得的版本及相应权利继续有效，不因本许可被撤回、缩减或追溯改变；不得用本许可阻止合法的旧版再分发。具有其他有效授权的相同材料可依该授权使用。原有版权及署名信息应予保留。只获得第三方组件或旧版代码不会自动使后来新增材料也适用其许可。
+
+6. 品牌和医疗边界。本许可不授予任何商标、商号、标志或设备厂商背书的权利。本项目是音频辅助工具，不提供医疗诊断、治疗、临床参数配置或设备厂商认证，不承诺任意设备兼容、零延迟、永久后台播放或绝对保密。
+
+7. 无担保及责任限制。在法律允许的最大范围内，许可材料按现状提供，不作适销性、特定用途适用性、不侵权、持续可用性等担保。许可人不承担使用本材料导致的损失，但不得排除法律不允许排除的责任。使用者应自行评估适用性，先以较低音量测试。
+
+8. 违反许可。未遵守本许可时，相关的本许可授权终止；违反者应停止未获授权的使用和分发。权利人保留对有效权利受侵害的行为依法要求停止侵害、赔偿损失等救济的权利。本条不限制第三方许可或独立取得的其他授权。
+
+9. 解释。本许可是为本项目拟定的非商业源码许可，不是 MIT、GPL 或 OSI 批准的开源许可。中英文如有歧义，以中文为准，但强制性法律及第5条保留的既有权利优先。本许可不证明许可人对任何特定内容拥有权利，也不构成对法律有效性或无诉讼风险的保证。另行授权请联系上述邮箱。
+
+English translation
+
+1. Scope. This license applies only to original code, interface assets and documentation that a licensor has authority to license and expressly designates under this license in this release (the Materials). It claims no exclusive right in uncopyrightable material. Third-party code, dependencies, corresponding source, licenses and separately marked files remain under their own licenses.
+
+2. Noncommercial grant. Subject to these terms, each licensor grants a worldwide, nonexclusive, royalty-free permission to use, inspect, copy, modify and distribute the Materials in source and executable forms for noncommercial purposes. Personal accessibility listening, learning and research unrelated to profit, and unpaid charitable assistance are permitted. A disabled person's use solely for personal listening at work is also permitted, provided the person does not supply this software to an employer or customer as a product or service.
+
+3. No commercialization. Without separate written permission from the relevant rightsholders, the Materials must not be used for activities directed toward commercial advantage, profit or monetary compensation. This includes selling or renting the software or derivatives, paid distribution, installation, configuration or support, bundling or embedding in commercial products or services, advertising, paid features, subscriptions, and business operations beyond the personal accessibility exception in section 2. A free software component does not make an otherwise commercial activity noncommercial.
+
+4. Redistribution and modifications. Preserve this license, author and copyright notices, and all applicable third-party notices. Clearly identify changes and dates, and do not misrepresent modified copies as the author's original. Covered portions of derivatives must remain under this license and cannot be sublicensed for commercial use. Executable distributions must include, or provide a valid means of obtaining, corresponding covered source. Third-party source obligations remain governed by their respective licenses.
+
+5. Existing rights and third-party licenses prevail. This license does not restrict or replace rights granted under MIT, MPL-2.0, Apache-2.0, BSD or other third-party licenses. Rights validly granted for prior versions under MIT or another license continue and are not revoked, narrowed or retroactively changed. Lawful redistribution of earlier versions must not be obstructed by these terms. Identical material separately licensed may be used under that license. Preserve existing copyright and attribution notices. Rights in older code or dependencies do not automatically extend to subsequently added material.
+
+6. Brands and medical limits. No trademark, trade name, logo or manufacturer endorsement is licensed. This is an audio assistance tool, not a diagnosis, treatment, clinical configuration or manufacturer certification service. Universal compatibility, zero latency, indefinite background playback and absolute confidentiality are not promised.
+
+7. Disclaimer. To the maximum extent permitted by law, the Materials are provided as is, without warranties of merchantability, fitness, noninfringement or availability. Licensors are not liable for losses arising from their use, except for liability that cannot lawfully be excluded. Evaluate suitability and begin testing at a low volume.
+
+8. Breach. Permissions under this license terminate upon noncompliance. Unauthorized use and distribution must stop. Rightsholders reserve lawful remedies, including cessation and compensation, for infringement of valid rights. This does not terminate third-party licenses or independently obtained permissions.
+
+9. Interpretation. This is a project-specific noncommercial source license, not MIT, GPL or an OSI-approved open source license. The Chinese text controls in case of ambiguity, subject to mandatory law and the existing rights preserved in section 5. This license does not establish ownership of any material or guarantee enforceability or freedom from litigation. Contact the email above for separate permission.
